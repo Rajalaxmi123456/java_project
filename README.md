@@ -1,2 +1,1 @@
-# java_project
-Airline Reservation System
+Airline Reservation System are systems that allow an airline to sell their inventory(seats).It contains information on schedules and fares and contains a database of reservation and of tickets issuesd(if applicable).
